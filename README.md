@@ -1,7 +1,7 @@
-This is a exact copy of the orginal IGodsEye repository this is not updated nor will I update it for you.
+This is an exact copy of the original IGodsEye repository this is not updated nor will I update it for you.
 
-
-If you are having issues compiling here are the project propertys
+I HAD TO MAKE A FORK OF MY FORK BECAUSE GITHUB IS A JEWISH WEBSITE 
+If you are having issues compiling here are the project properties
 
 1. General -> Platform Toolset -> v142
 2. Advanced -> Use of MFC -> Use MFC in a Static Library
